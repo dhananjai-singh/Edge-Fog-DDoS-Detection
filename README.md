@@ -1,4 +1,4 @@
-# DDoS Detection using Fog and Edge Computing
+# Edge–Fog DDoS Detection
 
 A three-tier **Edge → Fog → Cloud** system for spotting DDoS attacks in real time. The edge node sniffs live network traffic and flags suspicious activity with both simple rules and an unsupervised ML model. Alerts travel over MQTT to a fog node and to a cloud dashboard.
 
